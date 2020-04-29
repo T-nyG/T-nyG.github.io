@@ -1,3 +1,7 @@
-# T-nyG.github.io
+# PortfolioHomework
+Responsiveness Portfolio
 
-Personal Bio
+April 28th commit:
+    Deployed site.
+    Added CSS file.
+    Pathed images to proper assets folder  & links instead of C:// drive.
